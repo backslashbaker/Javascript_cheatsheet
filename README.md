@@ -8,7 +8,7 @@ Map - Using map you iterate the elements, and for each element you return an e
 
 Reduce - Using an array as an input, you can get one single element
 
-## The difference between == and === is that:
+## The difference between == and === :
 
 - == converts the variable values to the same type before performing comparison. This is called type coercion.
 - === does not do any type conversion (coercion) and returns true only if both values and types are identical for the two variables being compared.
