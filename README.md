@@ -1,5 +1,5 @@
 # Interview Cheat Sheet
-Ok, not a chear sheet per se.. more of a reminder of definitions.
+Ok, not a cheat sheet per se.. more of a reminder of definitions.
 
 ## Javascript
 
